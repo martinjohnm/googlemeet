@@ -1,0 +1,273 @@
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+.header{
+    width: 30%;
+    height: 48px;
+    background: yellow;
+
+}
+
+.meetimage{
+    padding-left: 14px;
+    padding-top: 10px;
+}
+.meettext{
+    display: inline-block;
+    font-family: "Product Sans",Arial,sans-serif;
+    font-size: 22px;
+    line-height: 24px;
+    padding-left: 8px;
+    position: relative;
+    top: -1.5px;
+    vertical-align: middle;
+    text-decoration: none ;
+    font-size: 22px;
+    font-family: "Product Sans",Arial,sans-serif;
+    color: #5f6368;
+    opacity: 1;
+    position: absolute;
+    top: -4px;
+    left: 134px;
+
+}
+.Premium{
+    
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif;
+    font-size: 2.75rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 3.25rem;
+    padding-bottom: 0.5em;
+    width: 36%;
+    padding-left: 70px;
+    padding-top: 145px;
+}
+.reengineer{
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    color: var(--gm-color-caption,#5f6368);
+    width: 32%;
+    padding-left: 70px;
+}
+.newmeet{
+   background-color: #1a73e8;
+   width: 10%;
+   height: 48px;
+   margin-left: 70px;
+  margin-top: 60px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-size: 100%;
+  font-weight: bold;
+  text-align: initial;
+  border: unset;
+
+}
+.newmeetnew{
+    position: relative;
+    top: 2px;
+    left: 8px;
+    width: 15%;
+}
+.meetnew{
+    position: relative;
+    left: 4px;
+    top: -3px;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 1rem;
+    letter-spacing: .00625em;
+    font-weight: 400;
+    display: flex;
+    border:#5f6368
+}
+.newmeeting{
+    position: relative;
+    top: -1px;
+    left: 11px;
+}
+.code{
+    width: 207px;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #fff;
+    height: 45px;
+    padding-right: 60px;
+    margin-left: 244px;
+    margin-top: -48px;
+    border-width: 1px;
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+
+}
+.img-keyboard{
+    position: relative;
+    left: 17px;
+    width: 12%;
+    top: 12px;
+}
+.entercode{
+    position: relative;
+    top: 9px;
+    left: 23px;
+}
+.line{
+    width: 37%;
+    margin-left: 70px;
+    margin-top: 45px;
+
+}
+
+.link{
+    position: relative;
+    top: 14px;
+    font-size: 16px;
+    margin-left: 70px;
+    color: #1a73e8;
+    font-family:  Roboto,Arial,sans-serif;
+}
+.about{
+    position: relative;
+    top: -20px;
+    left: 159px;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    color: #5f6368;
+}
+.show{
+    position: relative;
+    left: 900px;
+    top: -477px;
+    width: 400px;
+    background-color: black;
+    height: 452px;
+}
+.slides{
+    position: absolute;
+    left: 900px;
+    top: -477px;
+    width: 300px;
+    background-color:aqua;
+    height: 400px;
+
+}
+.persondiv{
+  position: absolute;
+  left: 914px;
+  top: 147px;
+  width: 400px;
+  height: 500px;
+  background-color: white;
+}
+.personimg
+{
+  position: absolute;
+  left: 35px;
+  top: 35px;
+
+
+}
+#rightarrow{
+  position: absolute;
+  top: 189px;
+  left: 391px;
+}
+#leftarrow{
+  position: absolute;
+  top: 189px;
+  left: 0px;
+}
+.persontextheading{
+  font-family: "Google Sans",Roboto,Arial,sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 2rem;
+  position: absolute;
+  top: 348px;
+  left: 54px;
+}
+.clicknewmeet{
+  letter-spacing: .01428571em;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 1.25rem;
+  position: absolute;
+  top: 400px;
+  left: 50px;
+
+}
+.timediv{
+    width: 500px;
+    height: 42px;
+    background-color: white;
+    position: absolute;
+    top: 6px;
+    left: 1050px;
+}
+.timedatenametext{
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.5rem;
+    color: #5f6368;
+    position: absolute;
+    top: -5px;
+    left: 38px;
+
+}
+.support{
+    position: absolute;
+    top: 6px;
+    left: 215px;
+    width: 40px;
+    height: 35px;
+    border: unset;
+    background-color: #fff
+}
+.supportimg{
+    width: 90%;
+}
+.feedback{
+    position: absolute;
+    top: 6px;
+    left: 265px;
+    width: 40px;
+    height: 35px;
+    border: unset;
+    background-color: #fff
+}
+.feedbackimg{
+    width: 90%;
+}
+.setting{
+    position: absolute;
+    top: 6px;
+    left: 315px;
+    width: 40px;
+    height: 35px;
+    border: unset;
+    background-color: #fff  
+}
+.settingimg{
+    width: 90%;
+}
+.dot{
+    position: absolute;
+    top: 6px;
+    left: 380px;
+    width: 40px;
+    height: 35px;
+    border: unset;
+    background-color: #fff  
+}
+.dotimg{
+    width: 90%;
+}
